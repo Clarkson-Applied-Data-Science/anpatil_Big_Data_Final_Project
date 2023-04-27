@@ -18,7 +18,6 @@ This project analyzes car crash data and pavement ratings in New York City to id
 ## Project Deliverables
 - Python code for data cleaning, merging, and analysis
 - Visualizations and graphs to show insights and patterns
-- Interactive map highlighting dangerous road segments
 - Final report summarizing findings and recommendations for improving road safety in New York City.
 
 ## Columns with discription of Crash Data:
