@@ -1,5 +1,5 @@
 # Project Title: Analysis of Car Crash Data and Pavement Ratings in New York City
-# Subject:
+# Subject: IA626
 
 ## Description
 This project analyzes car crash data and pavement ratings in New York City to identify patterns and potential areas for improvement in road safety. The project involves merging two datasets - car crash data and pavement ratings data - based on the latitude and longitude of the crashes and the street segments in the pavement ratings data. The merged dataset is then used to conduct various analyses, including visualizing the distribution of crashes over time, identifying the most dangerous street segments, and examining the relationship between pavement ratings and crash frequency. The project utilizes various tools and techniques such as data cleaning, data merging, data visualization, and statistical analysis.
