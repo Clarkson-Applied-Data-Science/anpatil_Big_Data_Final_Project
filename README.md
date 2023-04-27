@@ -9,7 +9,6 @@ This project analyzes car crash data and pavement ratings in New York City to id
 - Pandas
 - NumPy
 - Matplotlib
-- Folium
 
 ## Data Sources
 - Car Crash Data: NYC Open Data
